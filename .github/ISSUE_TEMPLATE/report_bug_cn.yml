@@ -36,7 +36,7 @@ body:
       label: 当前配置信息
       description: 如果能打开插件，请执行 `/report` 命令，将输出的信息**左键双击**复制粘贴到这里
       placeholder: |
-        `api` https://api.openai.com
+        `api` https://api.openai-sb.com
         `secretKey` sk-...D6vr
         `model` gpt-3.5-turbo
         `temperature` 1.0

@@ -34,7 +34,7 @@ body:
       label: Current Configuration Information
       description: If you can open the plugin, please run the `/report` command, and **double-click** to copy and paste the output here
       placeholder: |
-        `api` https://api.openai.com
+        `api` https://api.openai-sb.com
         `secretKey` sk-...D6vr
         `model` gpt-3.5-turbo
         `temperature` 1.0
